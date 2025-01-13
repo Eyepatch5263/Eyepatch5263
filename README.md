@@ -49,10 +49,10 @@ I'm a passionate **UI/UX Designer** and **Web Developer** with a growing interes
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [https://ayepatch.works](#)
-- **LinkedIn**: [https://www.linkedin.com/in/pratyush-pragyey-7a95a7258/](#)
-- **Chat**: [https://eyepatch5263.me](#)
-- **Blog**: [https://medium.com/@pratyushpragyey](#)
+- **Portfolio**: [Check My Portfolio](https://eyepatch.works)
+- **LinkedIn**: [Connect with Me on Linkedin](https://www.linkedin.com/in/pratyush-pragyey-7a95a7258/)
+- **Chat**: [Chat With Me](https://eyepatch5263.me)
+- **Blog**: [Check Out My Blogs](https://medium.com/@pratyushpragyey)
 
 ---
 
