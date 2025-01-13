@@ -7,9 +7,10 @@ I'm a passionate **UI/UX Designer** and **Web Developer** with a growing interes
 ## 🚀 Tech Stack
 
 - **Frontend**: JavaScript, ReactJS, Next.js, ShadCN, TailwindCSS
-- **Backend**: Node.js, Express.js, MongoDB
-- **DevOps & Cloud**: Learning NGINX, Docker, and cloud platforms
-- **Other Tools**: Cloudinary, Stripe, Redis
+- **Backend**: Node.js, Express.js, MongoDB, Convex
+- **Authentication**: Kind, Clerk, Oauth
+- **DevOps & Cloud**: Learning NGINX, Docker, Kubernetes and cloud platforms
+- **Other Tools**: Cloudinary, Stripe, Redis, Postman
 
 ---
 
@@ -51,7 +52,7 @@ I'm a passionate **UI/UX Designer** and **Web Developer** with a growing interes
 - **Portfolio**: [https://ayepatch.works](#)
 - **LinkedIn**: [https://www.linkedin.com/in/pratyush-pragyey-7a95a7258/](#)
 - **Chat**: [https://eyepatch5263.me](#)
-- **Blog**: [https://blogyfie.netlify.app/](#)
+- **Blog**: [https://medium.com/@pratyushpragyey](#)
 
 ---
 
