@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Pratyush]! 👋
 
 I'm a passionate **UI/UX Designer** and **Web Developer** with a growing interest in **DevOps** and **Cloud Computing**. I enjoy creating beautiful and responsive user interfaces and building efficient web applications.
 
