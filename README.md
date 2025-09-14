@@ -1,6 +1,6 @@
 # Hi there, I'm [Pratyush]! 👋
 
-I'm a passionate **UI/UX Designer** and **Web Developer** with a growing interest in **DevOps** and **Cloud Computing**. I enjoy creating beautiful and responsive user interfaces and building efficient web applications.
+I'm a passionate **Web Developer** and **DevOps** Engineer with a growing interest in **System Design** and **Cloud**. I enjoy creating beautiful and responsive user interfaces and building efficient web applications.
 
 ---
 
